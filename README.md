@@ -10,15 +10,9 @@
 ### 팀원 소개
 <div align="center">
 
-  🎸 팀장 이윤재
-
-  🤑 팀원 권성지
-
-  🐶 팀원 백지환
-
-  🤭 팀원 오은철
-
-  🤎 팀원 정현진
+|<img src="https://github.com/beyond-sw-camp/be05-1st-Peter_Parker-Park_HereRo/blob/main/images/memoji/itsjaeya.png" height="150" />|<img src="https://github.com/beyond-sw-camp/be05-1st-Peter_Parker-Park_HereRo/blob/main/images/memoji/holyplace129.png" height="150" />|<img src="https://github.com/beyond-sw-camp/be05-1st-Peter_Parker-Park_HereRo/blob/main/images/memoji/JihwanB.png" height="150" />|<img src="https://github.com/beyond-sw-camp/be05-1st-Peter_Parker-Park_HereRo/blob/main/images/memoji/ecoh96.png" height="150" />|<img src="https://github.com/beyond-sw-camp/be05-1st-Peter_Parker-Park_HereRo/blob/main/images/memoji/hyeonjin-dot.png" height="150" />|
+|:---:|:---:|:---:|:---:|:---:|
+|[🎸 팀장 이윤재](https://github.com/itsjaeya)|[🤑 팀원 권성지](https://github.com/holyplace129)|[🐶 팀원 백지환](https://github.com/JihwanB)|[🤭 팀원 오은철](https://github.com/ecoh96)|[🤎 팀원 정현진](https://github.com/hyeonjin-dot)|
 
 </div>
 
