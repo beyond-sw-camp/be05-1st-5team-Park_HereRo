@@ -58,7 +58,7 @@
 [요구사항 명세서 전체보기](https://github.com/beyond-sw-camp/be05-1st-Peter_Parker-Park_HereRo/blob/main/요구사항명세서.pdf)
 <div align="center">
 
-  <img src="https://github.com/beyond-sw-camp/be05-1st-Peter_Parker-Park_HereRo/blob/main/images/요구사항명세서.jpeg" height="200"/>
+  <img src="https://github.com/beyond-sw-camp/be05-1st-Peter_Parker-Park_HereRo/blob/main/images/요구사항명세서.jpeg" height="1500"/>
 
 </div>
 
@@ -229,6 +229,6 @@ CREATE TABLE openingDays_tbl (
 ## 테스트케이스
 <div align="center">
 
-  <img src="https://github.com/beyond-sw-camp/be05-1st-Peter_Parker-Park_HereRo/blob/main/images/testcases.jpg" height="600"/>
+  <img src="https://github.com/beyond-sw-camp/be05-1st-Peter_Parker-Park_HereRo/blob/main/images/testcases.JPG" height="1800"/>
 
 </div>
