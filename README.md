@@ -5,8 +5,6 @@
 ### 팀명
 **`Park_HereRo`**
 
-</br>
-
 ### 팀원 소개
 <div align="center">
 
@@ -52,4 +50,32 @@
   |:---:|:---:|:---:|:---:|
   |Heidisql|Datagrip|MariaDB|ERwin Data Modeler|
   
+</div>
+
+</br>
+
+## 요구사항 명세서
+
+
+</br>
+
+## ERD
+<div align="center">
+
+  <img src="https://github.com/beyond-sw-camp/be05-1st-Peter_Parker-Park_HereRo/blob/main/images/ERD.png" height="150"/>
+
+</div>
+
+</br>
+
+## DDL
+
+
+</br>
+
+## 테스트케이스
+<div align="center">
+
+  <img src="https://github.com/beyond-sw-camp/be05-1st-Peter_Parker-Park_HereRo/blob/main/images/테스트케이스.jpg" height="150"/>
+
 </div>
